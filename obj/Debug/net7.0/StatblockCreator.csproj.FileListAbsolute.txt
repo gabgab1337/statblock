@@ -1,0 +1,15 @@
+/Users/gabriel/Library/CloudStorage/GoogleDrive-gabrielhanszke@gmail.com/My Drive/Programming/StatblockCreator/bin/Debug/net7.0/StatblockCreator
+/Users/gabriel/Library/CloudStorage/GoogleDrive-gabrielhanszke@gmail.com/My Drive/Programming/StatblockCreator/bin/Debug/net7.0/StatblockCreator.deps.json
+/Users/gabriel/Library/CloudStorage/GoogleDrive-gabrielhanszke@gmail.com/My Drive/Programming/StatblockCreator/bin/Debug/net7.0/StatblockCreator.runtimeconfig.json
+/Users/gabriel/Library/CloudStorage/GoogleDrive-gabrielhanszke@gmail.com/My Drive/Programming/StatblockCreator/bin/Debug/net7.0/StatblockCreator.dll
+/Users/gabriel/Library/CloudStorage/GoogleDrive-gabrielhanszke@gmail.com/My Drive/Programming/StatblockCreator/bin/Debug/net7.0/StatblockCreator.pdb
+/Users/gabriel/Library/CloudStorage/GoogleDrive-gabrielhanszke@gmail.com/My Drive/Programming/StatblockCreator/obj/Debug/net7.0/StatblockCreator.csproj.AssemblyReference.cache
+/Users/gabriel/Library/CloudStorage/GoogleDrive-gabrielhanszke@gmail.com/My Drive/Programming/StatblockCreator/obj/Debug/net7.0/StatblockCreator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabriel/Library/CloudStorage/GoogleDrive-gabrielhanszke@gmail.com/My Drive/Programming/StatblockCreator/obj/Debug/net7.0/StatblockCreator.AssemblyInfoInputs.cache
+/Users/gabriel/Library/CloudStorage/GoogleDrive-gabrielhanszke@gmail.com/My Drive/Programming/StatblockCreator/obj/Debug/net7.0/StatblockCreator.AssemblyInfo.cs
+/Users/gabriel/Library/CloudStorage/GoogleDrive-gabrielhanszke@gmail.com/My Drive/Programming/StatblockCreator/obj/Debug/net7.0/StatblockCreator.csproj.CoreCompileInputs.cache
+/Users/gabriel/Library/CloudStorage/GoogleDrive-gabrielhanszke@gmail.com/My Drive/Programming/StatblockCreator/obj/Debug/net7.0/StatblockCreator.dll
+/Users/gabriel/Library/CloudStorage/GoogleDrive-gabrielhanszke@gmail.com/My Drive/Programming/StatblockCreator/obj/Debug/net7.0/refint/StatblockCreator.dll
+/Users/gabriel/Library/CloudStorage/GoogleDrive-gabrielhanszke@gmail.com/My Drive/Programming/StatblockCreator/obj/Debug/net7.0/StatblockCreator.pdb
+/Users/gabriel/Library/CloudStorage/GoogleDrive-gabrielhanszke@gmail.com/My Drive/Programming/StatblockCreator/obj/Debug/net7.0/StatblockCreator.genruntimeconfig.cache
+/Users/gabriel/Library/CloudStorage/GoogleDrive-gabrielhanszke@gmail.com/My Drive/Programming/StatblockCreator/obj/Debug/net7.0/ref/StatblockCreator.dll
