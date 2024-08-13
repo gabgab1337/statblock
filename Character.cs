@@ -12,6 +12,8 @@ namespace RPG.StatBlock
         private string size = "Medium";
 
         public Stats stats = new Stats();
+        public Action action = new Action();
+        public Weapon weapon = new Weapon("sword");
 
         public void PrintCharacter(){
             Console.WriteLine(name);
