@@ -2,7 +2,14 @@ using System;
 
 namespace RPG.StatBlock{
     public class Stats{
-        private int strength = 10, dexterity = 10, constitution = 10, inteligence = 10, wisdom = 10, charisma = 10;
+        Dictionary<string, int> coreStats = new Dictionary<string, int> 
+        {
+            {"strength", 10}, 
+            {"dexterity", 10}, 
+            {"constitution", 10}, 
+            {"inteligence", 10}, 
+            {"wisdom", 10}, 
+            {"charisma", 10}};
         private int armorClass = 10;
         private int initiative = 0;
         private int speed = 30;
@@ -12,34 +19,29 @@ namespace RPG.StatBlock{
             return (stat - 10) / 2;
         }
 
-        public int Strength{
-            get { return strength; }
-            set { strength = value; }
+        public int strength{
+            get { return coreStats["strength"]; }
+            set { coreStats["strength"] = value; }
         }
-
-        public int Dexterity{
-            get { return dexterity; }
-            set { dexterity = value; }
+        public int dexterity{
+            get { return coreStats["dexterity"]; }
+            set { coreStats["dexterity"] = value; }
         }
-
-        public int Constitution{ 
-            get { return constitution; } 
-            set { constitution = value; }
+        public int constitution{
+            get { return coreStats["constitution"]; }
+            set { coreStats["constitution"] = value; }
         }
-
-        public int Inteligence{
-            get { return inteligence; }
-            set { inteligence = value; }
+        public int inteligence{
+            get { return coreStats["inteligence"]; }
+            set { coreStats["inteligence"] = value; }
         }
-
-        public int Wisdom{
-            get { return wisdom; }
-            set { wisdom = value; }
+        public int wisdom{
+            get { return coreStats["wisdom"]; }
+            set { coreStats["wisdom"] = value; }
         }
-
-        public int Charisma{
-            get { return charisma; }
-            set { charisma = value; }
+        public int charisma{
+            get { return coreStats["charisma"]; }
+            set { coreStats["charisma"] = value; }
         }
 
         public int ArmorClass{
